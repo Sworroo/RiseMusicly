@@ -1,0 +1,32 @@
+[
+    {
+        "musician": "Ashnikko, Hatsune Miku",
+        "title": "Daisy 2.0",
+        "id": "daisy",
+        "duration": 167
+    },
+    {
+        "musician": "Hatsune Miku",
+        "title": "World is Mine",
+        "id": "worldismine",
+        "duration": 254
+    },
+    {
+        "musician": "DELOSound",
+        "title": "Drift Phonk 3",
+        "id": "driftphonk3",
+        "duration": 144
+    },
+    {
+        "musician": "YOASOBI",
+        "title": "IDOL",
+        "id": "idolyasobi",
+        "duration": 213
+    },
+    {
+        "musician": "Saypink!, 20TOKENS",
+        "title": "Пусто",
+        "id": "say_empty",
+        "duration": 127
+    }
+]
